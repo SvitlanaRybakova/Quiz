@@ -1,0 +1,1 @@
+"C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.2.1\jbr\bin\java.exe" -jar out\Artifacts\Quiz_jar\Quiz.jar
